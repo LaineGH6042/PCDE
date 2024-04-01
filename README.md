@@ -1,5 +1,6 @@
 # Professional Certificate in Data Engineering (PCDE)
-MIT xPRO PCDE <a href="https://xpro.mit.edu/courses/course-v1:xPRO+PCDEx/">Course Description</a>
+MIT xPRO PCDE  
+<a href="https://xpro.mit.edu/courses/course-v1:xPRO+PCDEx/">Course Description</a>
 
 ## Course Overview
 
