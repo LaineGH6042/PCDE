@@ -18,10 +18,21 @@ MIT xPRO PCDE
 ### Module 6: Client-Server Interface  
 * Visual Studio Code
 * SQL shell scripting
+* YAML
 
 ### Module 7: Housing Prices Model  
+* Data cleaning with pandas
+* Statistical variance, distribution, correlation and covariance
+* Scikit-learn
+  
 ### Module 8: ETL, Analysis & Visualization  
+* ETL from public transit database
+* Python CSV import function and MySQL database installation script
+* MySQL Server queries from MySQL Workbench and Python script
+  
 ### Module 9: GitHub and Advanced Python  
+* Python classes, decorators and wrapper functions
+
 ### Module 10: Software Engineering Basics  
 * Postman
 * Docker
