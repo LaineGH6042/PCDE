@@ -36,36 +36,70 @@ MIT xPRO PCDE
 ### Module 10: Software Engineering Basics  
 * Postman
 * Docker
+* Swagger
+* Strapi
   
 ### Module 11: Client-Server Architecture  
 * Flask
 * OpenSSL: PKI keys, encryption and signing
+* Customizing Bootstrap code
+* API token management with Okta
   
 ### Module 12: Database Types and Containerization  
+* MongoDB: document database
+* Redis: key-value database
+* Cassandra: distributed scalable database
+* Firebase: serverless cloud database
+* Initiation of each type of database in Docker containers
+  
 ### Module 13: Change Data Capture (CDC)  
+* Propagating changes from MySQL database to MondoDB, Redis and Cassandra databases
+* Python timer functions for automated queries
+* Initializing and modifying databases in Docker containers with Python shell scripting
+  
 ### Module 14: Java and Debezium  
-* Java containers in Docker Desktop
-* Spring Boot
-* Debezium
+* Modifying Spring Boot applications in Docker containers
+* Event-driven CDC with Debezium
   
 ### Module 15: Web Applications with Advanced Python  
+* JSON web tokens architecture
+* Creation of web application with required authorization
+  
 ### Module 16: APIs with Transit Data  
-* Mapbox API
+* Public transit APIs
+* Mapbox
+* Java execution and project management with Apache Maven
   
 ### Module 17: ETL Using NiFi  
-* NiFi installation in Docker containers
-* Driver installation
+* NiFi and driver installation in Docker containers
+* NiFi pipelines in MongoDB, Redis and Cassandra
   
 ### Module 18: Big Data Platforms  
 * Hadoop
   
 ### Module 19: Spark and Airflow  
+* Spark and Airflow installation and execution in Docker containers
 * PySpark queries
   
 ### Module 20: Machine Learning and Advanced Probability  
+* Gradient descent optimization
+* Naïve Bayes and Gaussian Naïve Bayes classifiers
+  
 ### Module 21: Reinforcement Learning and Deep Neural Networks  
+* Classification and regression algorithms in scikit-learn
+* Visualization with matplotlib
+* DNN with TensorFlow
+  
 ### Module 22: Processing and Streaming Big Data  
-* DASK
+* Parallel computing with DASK
+* Streaming web sockets
   
 ### Module 23: Creating a Data Pipeline  
+* Data extraction with curl and Python
+* Visualization with JavaScript D3
+  
 ### Module 24: Mosquitto, ThingsBoard and Kafka
+* Mosquitto MQTT brokers in Docker containers
+* Streaming data from ThingsBoard to Firebase realtime database
+* Kafka installation and execution in Docker containers
+* Modifying Node.js scripts
