@@ -2,16 +2,16 @@ BUILDING A MODEL TO PREDICT HOUSING PRICES
 
 In this module’s project, you will use knowledge from the past modules to complete a linear regression analysis on the 
 `houseSmallData` dataset. This dataset contains columns that describe housing features, such as the lot size in square feet, 
-the type of road access, and the flatness of the property. You will use this dataset to predict the price of each house based on 
-the values of the other variables in your dataset.
+the type of road access, and the flatness of the property. You will use this dataset to predict the price of each house based 
+on the values of the other variables in your dataset.
 
 Goals and expectations:
 
 First, you will download the houseSmallData.csv file and open the Project Outline Template using your local instance of Jupyter 
 Notebook.
 
-You will be asked to complete each section of the Project Outline Template. You will begin by writing an abstract about the project 
-along with a description of the data that you will be working with.
+You will be asked to complete each section of the Project Outline Template. You will begin by writing an abstract about the 
+project along with a description of the data that you will be working with.
 
 Next, you will import your data and perform an exploratory analysis to familiarize yourself with the data. This section of the 
 project will culminate with a correlation analysis of the columns in the dataframe. Your goal is to derive insight about which 
@@ -22,6 +22,7 @@ analyze the results of the algorithm.
 
 Finally, you will draw conclusions about your project’s results and findings.
 
-In addition to the Project Outline Template Jupyter Notebook, you will be asked to submit a PowerPoint slide deck with a summary of 
-your findings. A Slide Deck Template is provided. The slide deck should contain a concise description of all the steps that you 
-performed in the Jupyter Notebook. It should not include any code, just numerical values about your results and images of your plots.
+In addition to the Project Outline Template Jupyter Notebook, you will be asked to submit a PowerPoint slide deck with a summary 
+of your findings. A Slide Deck Template is provided. The slide deck should contain a concise description of all the steps that 
+you performed in the Jupyter Notebook. It should not include any code, just numerical values about your results and images of 
+your plots.
